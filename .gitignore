@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules/
+
+
+# Local artifacts
+README.md
+solution-blueprint.md
+SUBMISSION.txt
+SOLUTION_BLUEPRINT.pdf
